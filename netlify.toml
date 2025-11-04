@@ -1,0 +1,8 @@
+[build]
+publish = "bin/Release/net8.0/publish"
+command = "dotnet publish -c Release"
+
+[[redirects]]
+from = "/booth/*"
+to = "https://xframe.netlify.app/booth/:splat"
+status = 200
