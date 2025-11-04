@@ -8,15 +8,15 @@
 <button @onclick="Submit">Pošalji</button>
 
 @code {
-    [Parameter] public string SessionId { get; set; }
-    public string Email { get; set; }
+    [Parameter] public string SessionId { get; set; } = string.Empty;
+    public string Email { get; set; } = string.Empty;
 
     private async Task Submit()
     {
         if (string.IsNullOrWhiteSpace(Email))
             return;
 
-        var response = await Http.PostAsJsonAsync($"https://localhost:5001/api/session/{SessionId}/email", Email);
+        var response = await Http.PostAsJsonAsync($"https://booth-api-d0el.onrender.com/api/session/{SessionId}/email", Email);
         if (!response.IsSuccessStatusCode)
         {
             Console.WriteLine("Greška pri slanju emaila.");
