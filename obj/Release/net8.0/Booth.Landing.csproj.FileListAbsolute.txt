@@ -1023,9 +1023,6 @@ C:\Users\Ante\Desktop\Pixie\BoothSolution\Booth.Landing\obj\Release\net8.0\compr
 C:\Users\Ante\Desktop\Pixie\BoothSolution\Booth.Landing\obj\Release\net8.0\compressed\09i308c3sr-tptq2av103.gz
 C:\Users\Ante\Desktop\Pixie\BoothSolution\Booth.Landing\obj\Release\net8.0\compressed\9zddsadgbh-lfu7j35m59.gz
 C:\Users\Ante\Desktop\Pixie\BoothSolution\Booth.Landing\obj\Release\net8.0\compressed\q259yj1r3z-oyz0vx2fzb.gz
-C:\Users\Ante\Desktop\Pixie\BoothSolution\Booth.Landing\obj\Release\net8.0\compressed\xzh6gyqcms-tgmxxfm7h1.gz
-C:\Users\Ante\Desktop\Pixie\BoothSolution\Booth.Landing\obj\Release\net8.0\compressed\yjtg8qjo9n-h52s85sm42.gz
-C:\Users\Ante\Desktop\Pixie\BoothSolution\Booth.Landing\obj\Release\net8.0\compressed\bnixrx9or6-zaa10psaqp.gz
 C:\Users\Ante\Desktop\Pixie\BoothSolution\Booth.Landing\obj\Release\net8.0\staticwebassets.build.json
 C:\Users\Ante\Desktop\Pixie\BoothSolution\Booth.Landing\obj\Release\net8.0\staticwebassets.build.json.cache
 C:\Users\Ante\Desktop\Pixie\BoothSolution\Booth.Landing\obj\Release\net8.0\staticwebassets.development.json
@@ -1035,3 +1032,6 @@ C:\Users\Ante\Desktop\Pixie\BoothSolution\Booth.Landing\obj\Release\net8.0\Booth
 C:\Users\Ante\Desktop\Pixie\BoothSolution\Booth.Landing\obj\Release\net8.0\refint\Booth.Landing.dll
 C:\Users\Ante\Desktop\Pixie\BoothSolution\Booth.Landing\obj\Release\net8.0\Booth.Landing.pdb
 C:\Users\Ante\Desktop\Pixie\BoothSolution\Booth.Landing\obj\Release\net8.0\ref\Booth.Landing.dll
+C:\Users\Ante\Desktop\Pixie\BoothSolution\Booth.Landing\obj\Release\net8.0\compressed\xzh6gyqcms-20oezyu3gm.gz
+C:\Users\Ante\Desktop\Pixie\BoothSolution\Booth.Landing\obj\Release\net8.0\compressed\yjtg8qjo9n-c01yt6n3m1.gz
+C:\Users\Ante\Desktop\Pixie\BoothSolution\Booth.Landing\obj\Release\net8.0\compressed\bnixrx9or6-zhjfb9m5qf.gz

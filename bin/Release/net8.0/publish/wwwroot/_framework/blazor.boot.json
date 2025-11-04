@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Booth.Landing",
   "resources": {
-    "hash": "sha256-px9hTme2N1SjyPW7OEa1F61FnDhlosIDTydkGWxBEKw=",
+    "hash": "sha256-jRiuY9ZERd9yicOX3k132c0AnEhz0KabJD8iKrgmxn0=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-1QpKPnxEuRCElzcp+e3MrovJeAJkuzqKmRQay/6Aa08="
     },
@@ -49,7 +49,7 @@
       "System.Text.Json.wasm": "sha256-PItAK5b5Z6GVsEJxRbRP0O9LyT3xcRjvLR/Qaj35A2g=",
       "System.Text.RegularExpressions.wasm": "sha256-YVSquKNmLT/T/5RKu/7rGnL0bW2rki1PzPv1Pd29VQI=",
       "System.Private.CoreLib.wasm": "sha256-2ttFtJCSzozlK4/OSyUYuuBWRrWyvAwhPfmoGDzBcaU=",
-      "Booth.Landing.wasm": "sha256-A5NWtHmvbuPtNfIFh/YnOxKKf0nv2wzv9dsWhKw/onA="
+      "Booth.Landing.wasm": "sha256-AtzrcosTahc+aWmeQCiLp0hVt13rXFGDwC3Hsypn/BE="
     }
   },
   "cacheBootResources": true,
