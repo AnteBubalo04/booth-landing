@@ -6,3 +6,8 @@ command = "dotnet publish -c Release"
 from = "/booth/*"
 to = "https://xframe.netlify.app/booth/:splat"
 status = 200
+
+[[redirects]]
+from = "/*"
+to = "/index.html"
+status = 200
