@@ -1,0 +1,1 @@
+"bin/\nobj/\n*.user\n*.suo\n*.db\n*.DS_Store\n.vscode/\n.idea/\n*.log\n*.swp\n*.tmp\n*.bak\n*.cache\n*.pdb\n*.mdb\n*.PublishProfiles/\nwwwroot/\nnode_modules/" 
